@@ -7,7 +7,7 @@
 ---
 
 ## **My passions**
-I am a **gamer** and I create **[modpacks for Minecraft](https://www.curseforge.com/members/d4vide106/projects "Modpacks")**. 
+I am a **gamer** and I create **[modpacks for Minecraft](https://discord.com/channels/849652563803504700/1235255403328045207 "Modpacks")**. 
 You can also find my modpacks on **[Modrinth](https://modrinth.com/user/D4vide106 "Modrinth profile")** or **[CurseForge](https://www.curseforge.com/members/d4vide106 "CurseForge Profile")**.
 I have a passion for Minecraft that I have been cultivating for several years, developing custom modpacks and exploring new ideas in the game.
 In addition to Minecraft, I also enjoy creating maps for [**Roblox**](https://discord.com/channels/849652563803504700/1251552680350842941).
