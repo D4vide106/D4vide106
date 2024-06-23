@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**D4vide106/D4vide106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🌍 Earth | [My bio](https://zaap.bio/D4vide106 "Info!")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **My passions**
+I am a **gamer** and I create **[modpacks for Minecraft](https://www.curseforge.com/members/d4vide106/projects "Modpacks")**. 
+You can also find my modpacks on **[Modrinth](https://modrinth.com/user/D4vide106 "Modrinth profile")** or **[CurseForge](https://www.curseforge.com/members/d4vide106 "CurseForge Profile")**.
+I have a passion for Minecraft that I have been cultivating for several years, developing custom modpacks and exploring new ideas in the game.
+In addition to Minecraft, I also enjoy creating maps for [**Roblox**](https://discord.com/channels/849652563803504700/1251552680350842941).
+I love talking about anime and games.
+
+## **Community Discord**
+Join my community on **Discord** to discuss **Minecraft, anime, games and more**:
+👉 [Join my community Discord!](https://dsc.gg/infinitywonderful "Infinity Wonderful")
+
+---
+
+</div>
+
